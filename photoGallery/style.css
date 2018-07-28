@@ -1,0 +1,17 @@
+body {
+	background-color: #e2e9f0
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: cadetblue;
+	margin-left: 1.66%;
+	font-size: 30px;
+	text-transform: uppercase;
+	border-bottom: 2px solid cadetblue;
+	width: 30%;
+}
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%
+}
